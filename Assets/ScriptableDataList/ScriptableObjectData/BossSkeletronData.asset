@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccf38f168aeef1e42a19765b79612162, type: 3}
+  m_Name: BossSkeletronData
+  m_EditorClassIdentifier: 
+  name: "\u30DC\u30B9\u30B9\u30B1\u30EB\u30C8\u30F3"
+  info: "\u6575"
+  maxHP: 5
+  acceleration: 5
+  maxSpeed: 5
+  deceleration: 0
+  minSpeed: 0.1
+  maxJumpCount: 0
+  firstJumpPower: 0
+  secondJumpPower: 0
+  thirdJumpPower: 0
+  maxLongJumpCount: 0
+  keepJumpForce: 0
+  maxBurstJumpCount: 0
+  maxNoJumpInputCount: 0
+  flipJumpPower: 600
+  rollingPower: 0
+  knockBackPower: 25
+  attackPower: 0.5
+  footAttackPower: 0
+  armAttackPower: 0
+  attackForwardPower: 0
+  maxAttackCount: 0
+  maxBurstAttackCount: 0
+  jumpAttackTimerCount: 0
+  readySpinAttackTimerCount: 0
+  spinAttackTimerCount: 0
+  guardEnabled: 0
+  forwardAcceleTimerCount: 0
+  backAcceleTimerCount: 0
+  horizontalTimerCount: 0
+  invincibleTimerCount: 0.5

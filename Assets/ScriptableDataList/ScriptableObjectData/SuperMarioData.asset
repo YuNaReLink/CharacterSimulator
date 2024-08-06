@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccf38f168aeef1e42a19765b79612162, type: 3}
+  m_Name: SuperMarioData
+  m_EditorClassIdentifier: 
+  name: "\u30DE\u30EA\u30AA "
+  info: 'Player '
+  maxHP: 3
+  acceleration: 0.5
+  maxSpeed: 8
+  deceleration: 0.1
+  minSpeed: 0.1
+  maxJumpCount: 3
+  firstJumpPower: 600
+  secondJumpPower: 1.15
+  thirdJumpPower: 1.2
+  maxLongJumpCount: 0
+  keepJumpForce: 0
+  maxBurstJumpCount: 0.5
+  maxNoJumpInputCount: 0
+  flipJumpPower: 2500
+  rollingPower: 2
+  knockBackPower: 2.5
+  attackPower: 0.5
+  footAttackPower: 10
+  armAttackPower: 10
+  attackForwardPower: 1
+  maxAttackCount: 3
+  maxBurstAttackCount: 0.5
+  jumpAttackTimerCount: 0
+  readySpinAttackTimerCount: 0
+  spinAttackTimerCount: 0
+  guardEnabled: 0
+  forwardAcceleTimerCount: 0
+  backAcceleTimerCount: 0
+  horizontalTimerCount: 0
+  invincibleTimerCount: 0.5

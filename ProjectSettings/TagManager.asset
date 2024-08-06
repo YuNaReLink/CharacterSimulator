@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Damage
+  - EnemySight
+  - Guard
+  - EnemyBody
+  - AppearObject
+  - SceneController
+  - Controller
+  - Life
+  - LifeFrame
+  - FxTemporaire
+  - FocusSight
+  - ResetCameraPostion
+  - Bullet
+  - Foot
+  - FocusPoint
+  - Obstacle
+  - WallFloor
+  - EnemyGuard
+  - DamageFoot
+  - SoundManager
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - ObstacleObject
+  - Water
+  - UI
+  - Floor_obstacle
+  - Child
+  - Parent
+  - Weapon
+  - Enemy
+  - FocusPoint
+  - Player
+  - PlayerFoot
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 1710808327
+    locked: 0
